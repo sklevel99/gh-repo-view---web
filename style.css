@@ -1,0 +1,96 @@
+body {
+  background-color: #F9F9F9;
+  font-family: 'Poppins', sans-serif;
+  color: #444444;
+  font-size: 18px;
+  line-height: 30px;
+  font-weight: lighter
+}
+
+h1, h2, h3, h4 {
+  color: #171717;
+  font-family: 'STIX Two Math', serif;
+}
+
+h1 {
+  font-size: 45px;
+}
+
+h2 {
+  font-size: 33px;
+  color: #171717;
+  font-family:'Lora', serif;
+}
+
+h3 {
+  font-size: 29px;
+
+}
+
+h4 {
+  font-size: 24px;
+  color: #0A1D37 ;
+}
+
+a {
+  background-color: #564A4A;
+  font-family:'Crimson Text', serif;
+  text-decoration: none;
+  color: white;
+  font-weight:800;
+  font-size:26px;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+a:hover {
+  background-position: center;
+  transition: 1s;
+  color: black;
+}
+.container {
+  background-color: #EDF6E5;
+}
+
+.card-red {
+  background-color: #F8F5F1;
+  padding: 40px;
+  box-shadow: 0px 10px 30px rbg(0 0 0 /10%);
+  border-radius: 4px;
+  margin: 20px 0px;
+  text-align: center;
+}
+
+.card-red img {
+  border-radius: 30%;
+}
+
+.card-blue {
+  background-color: #F8F5F1;
+  padding: 40px;
+  box-shadow: 0px 10px 30px rbg(0 0 0 /10%);
+  border-radius: 4px;
+  margin: 20px 0px;
+  text-align: center;
+}
+
+.card-blue ul {
+  list-style: none;
+}
+
+.card-yellow {
+  text-align: center;
+}
+
+.card-yellow ul {
+  list-style: none;
+}
+
+.card-yellow li{
+  display: inline;
+}
+
+.card-yellow a {
+  background-color: #D7B19D;
+}
+
